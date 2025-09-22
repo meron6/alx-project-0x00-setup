@@ -6,7 +6,7 @@ const Home: React.FC = () => {
         Get Started
       </button>
     </main>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
